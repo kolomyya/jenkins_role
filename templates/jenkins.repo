@@ -1,0 +1,5 @@
+[jenkins]
+name=Jenkins Repository Server
+baseurl=http://pkg.jenkins-ci.org/redhat-stable/jenkins.repo
+enabled=1
+gpgcheck=0
