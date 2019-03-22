@@ -2,7 +2,7 @@
 ### AWS
 ・OS：CENTOS 7
 ・INSTANCE TYPE：T2.MICRO
-・ROOT DEVICE SIZE：8GB
+・ROOT DEVICE SIZE：12GB
 
 This role is used to install jenkins on AWS. Before you run the playbook, please chenge the domain/ip of the jenkins under /jenkins/vars/main.yml Example: jenkins: domain
 Any pre-requisites that may not be covered by Ansible itself or the role should be mentioned here. For instance, if the role uses the EC2 module, it may be a good idea to mention in this section that the boto package is required.
