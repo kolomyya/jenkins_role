@@ -1,3 +1,3 @@
 ---
 # vars file for jenkins
-jenkins: "http://157.230.223.185:8080"
+jenkins: "http://IP:8080"
